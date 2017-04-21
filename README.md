@@ -2,8 +2,11 @@
 
 To load,  run mongorestore from the SampleCollections directory
 
-`cd SampleCollections
-mongrestore [login details]`
+```
+cd SampleCollections
+
+mongrestore [login details]
+```
 
 This will load into the SampleCollections database 
 
