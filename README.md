@@ -1,4 +1,4 @@
-# Sample collections for dbenvy testing
+# Sample collections for MongoDB
 
 To load,  run mongorestore from the SampleCollections directory
 
@@ -14,3 +14,6 @@ You will usually want to use the drop command to delete collections before loadi
 
 `mongorestore --drop --username user --password xxxx`
 
+Some of the collections in this "collection" are:
+
+* DBEnvy
